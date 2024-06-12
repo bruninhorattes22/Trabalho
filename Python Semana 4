@@ -1,0 +1,19 @@
+Python é uma linguagem de programação interpretada, de alto nível e multiparadigma. É conhecida pela sua sintaxe limpa e legibilidade, o que a torna uma escolha popular para desenvolvimento web, ciência de dados, automação, entre outros.
+Exemplo de Codigo Python: 
+
+print("Hello, world!")
+
+JavaScript é uma linguagem de programação de alto nível, interpretada e orientada a objetos. É amplamente utilizada para criar conteúdo dinâmico em páginas da web e é suportada por todos os principais navegadores.
+Exemplo de Codigo JavaScript: 
+
+console.log("Hello, world!");
+
+C++ é uma linguagem de programação de propósito geral, compilada, que suporta programação procedural, orientada a objetos e genérica. É conhecida pela sua eficiência e é frequentemente utilizada em desenvolvimento de sistemas, jogos, entre outros.
+Exemplo de Codigo C++: 
+
+#include <iostream>
+
+int main() {
+    std::cout << "Hello, world!" << std::endl;
+    return 0;
+}
